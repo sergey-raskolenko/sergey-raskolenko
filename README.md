@@ -10,7 +10,6 @@
   </a>
 </div>
 
-___
 
 ### 🐍 I'm a Python developer.
 
@@ -18,7 +17,6 @@ ___
 
 ### 🔎 Currently looking for a job.
 
----
 
 ## 💻 My tech stack
 
@@ -87,7 +85,6 @@ ___
     </a>
 </div>
 
----
 
 ## 📊 My stat
 
@@ -96,5 +93,3 @@ ___
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergey-raskolenko&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergey-raskolenko&theme=github_dark" alt=""/>
 </div>
-
----
