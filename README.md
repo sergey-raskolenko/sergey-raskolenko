@@ -10,13 +10,13 @@
   </a>
 </div>
 
-
 ### 🐍 I'm a Python developer.
 
 ### 🎓 Master's Degree in Renewable Solar Energy.
 
 ### 🔎 Currently looking for a job.
 
+---
 
 ## 💻 My tech stack
 
